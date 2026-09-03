@@ -1,15 +1,15 @@
 # MhysticFX Database System
 
-## 📌 Overview
+## Overview
 This project was developed as part of the Systems Analysis & Design course at Monroe University.  
 It models a financial technology consultancy (MhysticFX Solutions) specializing in FOREX trading analytics.
 
-## 🎯 Objectives
+## Objectives
 - Integrate trading, portfolio management, and reporting into one system.
 - Automate trade performance reports and risk alerts.
 - Provide secure, scalable access with cloud integration.
 
-## 🛠️ Technologies
+## Technologies
 - Microsoft Access (Database Design)
 - SQL Queries
 - UML Diagrams (Use Case, Activity, Sequence)
