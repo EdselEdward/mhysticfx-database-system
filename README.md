@@ -26,8 +26,6 @@ Group 4 — De Vante D. Antoine‑Serieux, Edsel G. Edward, Jabari E. Benjamin, 
 
 ## Screenshots
 - Relationships diagram
-- Forms and queries
-- Sample reports
 
 ## Documentation
 See `/docs/Final_Project_SDLC.pdf` for full analysis and design details.
